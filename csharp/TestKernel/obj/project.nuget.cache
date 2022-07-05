@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJOLGSrSFgpYxdA/CZRxukt7TW32gLg/vq+ikXXbu1rCIj6ZpYaa+7ZF4tkuQAMzq1BC8JLkc7PS+7aTbqlowg==",
+  "success": true,
+  "projectFilePath": "C:\\source\\CGF\\csharp\\TestKernel\\TestKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovanni\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20220705103610\\cosmos.build.0.1.0-localbuild20220705103610.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20220705103638\\cosmos.common.0.1.0-localbuild20220705103638.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20220705103638\\cosmos.core.0.1.0-localbuild20220705103638.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20220705103638\\cosmos.debug.kernel.0.1.0-localbuild20220705103638.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20220705103638\\cosmos.hal2.0.1.0-localbuild20220705103638.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20220705103638\\cosmos.system2.0.1.0-localbuild20220705103638.nupkg.sha512",
+    "C:\\Users\\Giovanni\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20220705103638\\il2cpu.api.0.1.0-localbuild20220705103638.nupkg.sha512"
+  ],
+  "logs": []
+}

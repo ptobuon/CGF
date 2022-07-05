@@ -1,0 +1,12 @@
+C:\source\CGF\csharp\TestKernel\bin\Debug\net6.0\TestKernel.deps.json
+C:\source\CGF\csharp\TestKernel\bin\Debug\net6.0\TestKernel.dll
+C:\source\CGF\csharp\TestKernel\bin\Debug\net6.0\TestKernel.pdb
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.csproj.AssemblyReference.cache
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.AssemblyInfoInputs.cache
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.AssemblyInfo.cs
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.csproj.CoreCompileInputs.cache
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.dll
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\refint\TestKernel.dll
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\TestKernel.pdb
+C:\source\CGF\csharp\TestKernel\obj\Debug\net6.0\ref\TestKernel.dll
